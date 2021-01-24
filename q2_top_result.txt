@@ -1,0 +1,9 @@
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1619 system       18  -2 1.5G 165M 123M S 17.7  10.9   6:01.51 system_server
+  983 root         20   0 3.7M 1.8M 1.3M S  2.9   0.1   0:31.85 ueventd
+ 1269 logd         30  10  18M 5.5M 2.5M S  1.0   0.3   0:11.57 logd
+ 1281 root         20   0  17M 5.8M 4.8M S  0.7   0.3   0:09.90 vold --blkid_context=u:r:blkid:s0 --blkid_untrusted_context=u:r:blkid_untrusted:s0 --fsck_context=u:r:fsck:s+
+ 3315 u0_a84       20   0 1.6G  97M  71M S  0.5   6.4   0:21.49 com.example.helloworld
+ 1327 system       -3   0  50M 6.6M 5.5M S  0.5   0.4   0:23.71 android.hardware.graphics.composer@2.1-service
+    3 root         20   0    0    0    0 S  0.5   0.0   0:03.81 [ksoftirqd/0]
+ 5716 shell        20   0 7.3M 3.3M 2.7M R  0.2   0.2   0:00.37 top
